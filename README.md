@@ -1,4 +1,4 @@
-# Olá, 
+# **Olá,** 
 
 Me chamo Tâmara, sou arquiteta Urbanista com MBA em Data Science e Analytics (USP/ESALQ), atuando na interseção entre planejamento urbano e análise de dados espaciais. 
 Trabalho com geoprocessamento, ciência de dados urbanos e métodos quantitativos aplicados à equidade territorial, combinando leitura espacial de cidade com Python, GeoPandas, PySAL e ferramentas livres de SIG.
@@ -30,7 +30,9 @@ Pipeline reproduzível que integra Censo IBGE 2022, MapBiomas, Cartas de Susceti
 
 `Python` · `GeoPandas` · `Rasterio` · `Pandas`
 
+
 ---
+
 
 # Stack técnica
 
