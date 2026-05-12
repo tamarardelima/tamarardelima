@@ -1,6 +1,6 @@
 # **Olá,** 
 
-Me chamo Tâmara, sou arquiteta Urbanista com MBA em Data Science e Analytics (USP/ESALQ), atuando na interseção entre planejamento urbano e análise de dados espaciais. 
+Me chamo Tâmara. Sou arquiteta Urbanista com MBA em Data Science e Analytics (USP/ESALQ), atuando na interseção entre planejamento urbano e análise de dados espaciais. 
 Trabalho com geoprocessamento, ciência de dados urbanos e métodos quantitativos aplicados à equidade territorial, combinando leitura espacial de cidade com Python, GeoPandas, PySAL e ferramentas livres de SIG.
 
 
