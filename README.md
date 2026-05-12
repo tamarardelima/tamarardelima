@@ -6,7 +6,7 @@ Trabalho com geoprocessamento, ciência de dados urbanos e métodos quantitativo
 
 # Projetos em destaque
 
-### [Análise Exploratória de Dados Espaciais, ICVT São Luís](https://github.com/tamarardelima/icvt-mapa-interativo)
+### [Análise Exploratória de Dados Espaciais, ICVT São Luís](https://github.com/tamarardelima/icvt-aede-sao-luis)
 Identificação de clusters geográficos de vulnerabilidade urbana em São Luís (MA) usando Moran's I e LISA aplicados a um Índice Composto de Vulnerabilidade Territorial calculado para 257 bairros.
 `Python` · `GeoPandas` · `PySAL` · `Matplotlib`
 
